@@ -1,0 +1,68 @@
+[33mcommit 5d09044cb070f5118354b99d40553661ed19d5c4[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/issue#3[m[33m, [m[1;33mtag: v0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 95fb2e3 68223de
+Author: Jeferson Moraes <61358412+jefersonmoraes@users.noreply.github.com>
+Date:   Sun Oct 11 16:05:11 2020 -0300
+
+    Merge pull request #6 from jefersonmoraes/hotfix/issue#1
+    
+    Resolvido o bug da tela de faltas.
+
+[33mcommit 68223de3cfc299e72534751e06dd0f58782db77e[m[33m ([m[1;31morigin/hotfix/issue#1[m[33m, [m[1;32mhotfix/issue#1[m[33m)[m
+Author: jefersonmoraes <jefersonvilela72@gmail.com>
+Date:   Sun Oct 11 15:18:59 2020 -0300
+
+    Resolvido o bug das faltas
+
+[33mcommit 95fb2e389c67b74763cb4822adb4c793acf841ca[m
+Author: jefersonmoraes <jefersonvilela72@gmail.com>
+Date:   Sat Oct 10 08:54:49 2020 -0300
+
+    teste1
+
+[33mcommit 9d39302c78e84798fb6e13bf227449e0562b8c0c[m
+Author: Prof. José Reginaldo <jose.junior2@iesb.br>
+Date:   Fri Oct 9 19:22:53 2020 -0300
+
+    Update README.md
+
+[33mcommit 467e944801c9af94abdd51608b54a867b89f4712[m
+Author: Jose Reginaldo <jose.junior2@iesb.br>
+Date:   Sun Aug 16 22:20:20 2020 -0300
+
+    Inclusao no repositorio
+
+[33mcommit 31a1aea04fb2c3db33f48acf78b1cd2cba524e20[m
+Author: Jose Reginaldo <jose.junior2@iesb.br>
+Date:   Sun Aug 16 22:19:56 2020 -0300
+
+    Correção do markdown
+
+[33mcommit 6d412d4cad43b744df6f0cdb3f79f31229645d50[m
+Author: Jose Reginaldo <jose.junior2@iesb.br>
+Date:   Sun Aug 9 15:33:53 2020 -0300
+
+    Correcao do markdown
+
+[33mcommit e6298a2d80be765d7cccbb0bb374f648aff5be30[m
+Author: Jose Reginaldo <jose.junior2@iesb.br>
+Date:   Sun Aug 9 15:28:15 2020 -0300
+
+    Inclusao das atividades
+
+[33mcommit c6b0ab8e8672ce049976cf0672fcd4160b4439f7[m
+Author: Prof. José Reginaldo <jose.junior2@iesb.br>
+Date:   Thu Jul 16 13:23:59 2020 -0300
+
+    Create LICENSE
+
+[33mcommit 7377b53113fc2ec4f9484179a50977c40d504ae6[m
+Author: Prof. José Reginaldo <jose.junior2@iesb.br>
+Date:   Thu Jul 16 13:23:42 2020 -0300
+
+    Delete LICENSE
+
+[33mcommit d259b5cf23c7c1378266552d2312b0fd7b4b4aa8[m
+Author: Prof. José Reginaldo <jose.junior2@iesb.br>
+Date:   Thu Jul 16 10:08:08 2020 -0300
+
+    Initial commit
