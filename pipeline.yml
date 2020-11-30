@@ -1,0 +1,32 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git 'https://github.com/jefersonmoraes/ADS030.git'
+            }
+        }
+        stage('Build') {
+            steps {
+                dir('Aulas/aluno_online'){
+                    sh 'npm install'
+                }
+            }
+        }
+        stage('Unit Testing') {
+            steps {
+                dir('cd Aulas/jest'){
+                    sh 'jest'
+                }
+            }
+        }        
+        stage('E2E Testing') {
+            steps {
+                dir('cd Aulas/cucumber/features'){
+                    sh 'cucumber'
+                }
+            }
+        }
+    }
+}
